@@ -3,9 +3,6 @@
 /ZapretManager/obj/
 /ZapretManager/publish/
 
-# Local compiled app
-/Zapret Manager.exe
-
 # IDE/user files
 .vs/
 .vscode/
@@ -17,3 +14,12 @@ Thumbs.db
 Desktop.ini
 *.tmp
 *.log
+
+# Local zapret source bundle files kept for building the embedded exe.
+/bin/
+/lists/
+/utils/
+/general*.bat
+/service.bat
+/SHA256SUMS.txt
+/README_MANAGER.md
