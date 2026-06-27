@@ -1,0 +1,19 @@
+# Build output
+/ZapretManager/bin/
+/ZapretManager/obj/
+/ZapretManager/publish/
+
+# Local compiled app
+/Zapret Manager.exe
+
+# IDE/user files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS/temp files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
